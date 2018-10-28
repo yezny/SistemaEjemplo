@@ -1,0 +1,2 @@
+# SistemaEjemplo
+.NetCore
